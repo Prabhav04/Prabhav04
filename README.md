@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prabhav Narayanan</h1>
 <h3 align="center">A passionate frontend developer and designer from Kerala, India</h3>
 
-- 🌱 I’m currently learning **UI,UX and Python**
+- 🌱 I’m currently learning **REACT ,UI,UX and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
