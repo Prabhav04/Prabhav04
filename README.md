@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Prabhav Narayanan</h1>
 <h3 align="center">A passionate frontend developer and designer from Kerala, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhav04&label=Profile%20views&color=0e75b6&style=flat" alt="prabhav04" /> </p>
-
 - 🌱 I’m currently learning **UI,UX and Python**
 
 <h3 align="left">Connect with me:</h3>
