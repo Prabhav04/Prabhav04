@@ -59,7 +59,7 @@
 
 ### 🚀 Featured Projects
 
-- [Project Name](https://github.com/Prabhav04/freefolksEP): A short description of what the project does.
+- FREEFOLKS PORTFOLIO(https://github.com/Prabhav04/freefolksEP): showcases my band portfolio.
 
 ---
 
