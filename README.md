@@ -59,7 +59,7 @@
 
 ### 🚀 Featured Projects
 
-- FREEFOLKS PORTFOLIO(https://github.com/Prabhav04/freefolksEP): showcases my band portfolio.
+- [FREEFOLKS PORTFOLIO](https://github.com/Prabhav04/freefolksEP): showcases my band portfolio.
 
 ---
 
