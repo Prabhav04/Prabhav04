@@ -1,95 +1,73 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Prabhav Narayanan</h1>
-<h3 align="center">Frontend Developer • Designer • Musician</h3>
+# Prabhav Narayanan
 
-<p align="center">
-Building clean interfaces, meaningful experiences, and creative tech from Kerala, India 🇮🇳
-</p>
+**Frontend Developer · UI/UX Designer · Creative Technologist**  
+Kerala, India · CSE @ RIT Kottayam
 
----
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-yourportfolio.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prabhav--narayanan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhav-narayanan)
+[![Dribbble](https://img.shields.io/badge/Dribbble-prabhav--narayanan-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/Prabhav204)
+[![Email](https://img.shields.io/badge/Email-prabhavnarayanan74@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prabhavnarayanan74@gmail.com)
 
-### 🚀 About Me
-
-- 🎓 CSE Student at **RIT Kottayam**
-- 🧠 Currently diving deeper into **React.js**, **UI/UX Design Systems**, and **Flask**
-- 🎨 3+ years of experience in **Graphic Design (Photoshop + Figma)**
-- 🎻 Violinist & creative technologist blending **music + code**
-- 🏆 Winner – *Tech Thrive 24hr Hackathon*
-- ⚡ Built **Design Desk – RIT**, a tool to simplify poster creation workflows
-- 🤝 Open to **internships, freelance work, and collaborations**
+</div>
 
 ---
 
-### 🧩 What I Do
+## About
 
-- ✨ Design → Clean, modern UI/UX (Posters, branding, interfaces)
-- 💻 Develop → Responsive frontend apps & web tools
-- 🎵 Create → Music + tech experiments (like violin tuner project)
+I build fast, clean interfaces and design systems that solve real problems. Currently focused on Frontend Design and AI Integrations, with a background in graphic design.
 
----
+I also build tools at the intersection of music and technology - including a real-time communication for band members.
 
-### 🛠 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30"/>
-</p>
+**Currently open to:**  Freelance UI/UX work · Open source collaborations
 
 ---
 
-### 🏗 Featured Projects
+## Featured Projects
 
-- 🔥 **Design Desk – RIT**  
-  A web-based tool to quickly create official posters without needing Figma/Photoshop
+### Design Desk – RIT
+> A web tool that lets students and staff at RIT Kottayam generate official posters without needing Figma or Photoshop.
 
-- 🎸 **FREEFOLKS Portfolio**  
-  Band portfolio website showcasing creative work  
-  👉 https://github.com/Prabhav04/freefolksEP
+**Stack:** `React, Firebase, Figma` · **Users:** `<Used by RIT officials faculties & students`
 
-- 🎻 **Violin Tuner (In Progress)**  
-  Pitch detection + real-time feedback using Python
+- `Built a template engine that renders dynamic SVG layouts from JSON config`
+- `Reduced poster turnaround time from 2 days to under 10 minutes>`
+
+**[Live Demo](https://poster-master.vercel.app/)** · **[Source Code](https://github.com/Prabhav04/Poster-Master)**
+---
+
+### FREEFOLKS – Band Portfolio
+> Portfolio website for the band FREEFOLKS, showcasing music, creative work, and events.
+
+**Stack:** `React.Js`
+
+**[Live Site](https://freefolks-ep.vercel.app/)** · **[Source Code](https://github.com/Prabhav04/freefolksEP)**
+
+---
+## Stack
+
+| Area | Technologies |
+|------|-------------|
+| Frontend | React.js, Next.js,JavaScript (ES6+), HTML5, CSS3 |
+| Backend | Python, n8n, Node.js |
+| Design | Figma, Adobe Photoshop |
+| Database | MySQL, Firebase |
+| Tools | Git | 
 
 ---
 
-### 📈 GitHub Stats
+## Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhav04&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhav04&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/prabhav-narayanan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
-  </a>
-  <a href="https://instagram.com/prabhav_204_hashtag" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
-  </a>
-  <a href="https://dribbble.com/prabhav-narayanan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" height="30" />
-  </a>
-  <a href="https://www.youtube.com/@prabhavnarayanan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" />
-  </a>
-</p>
+- Advanced AI integrations, RAG Principles
+- RESTful API design 
+- Audio signal processing
 
 ---
 
-### 💭 Quote
+<div align="center">
 
-> *"If not now, then when?"*
+**The best way to reach me is [LinkedIn](https://www.linkedin.com/in/prabhavnarayanan/) or [email](mailto:prabhavnarayanan74@gmail.com).**
 
----
-
-💬 Always open to building something interesting 🚀
+</div>
